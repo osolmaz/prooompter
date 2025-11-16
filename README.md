@@ -1,5 +1,7 @@
 # prooompter
 
+![e260f1ab116c447372c9d977e10ccdba](https://github.com/user-attachments/assets/3af86655-c49b-4537-879d-798b7869c714)
+
 A CLI for extracting repository context into prompt-friendly text chunks. The codebase
 is adapted from [files-to-prompt](https://github.com/simonw/files-to-prompt) and
 packaged for repeatable installs via [uv](https://docs.astral.sh/uv/).
